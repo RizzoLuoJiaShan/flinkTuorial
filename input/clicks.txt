@@ -1,0 +1,8 @@
+Catalina,./home,1000L
+Josh,./cart,2000L
+Silvia,./detail,3000L
+Catalina,./cart,4000L
+Josh,./detail,5000L
+Silvia,./order,6000L
+Silvia,./payment,7000L
+Josh,./order,8000L
